@@ -1,3 +1,3 @@
 Git basic.
 
-Learning the basics of Git and Github. Fuck typing more....
+Learning the basics of Git and Github. 
